@@ -11,7 +11,7 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author:
   name: Mikko Ahonen
-  avatar: '/images/face.jpg'
+  avatar: '/images/face.jpeg'
 
 
 #-------------------------------
@@ -19,7 +19,7 @@ author:
 hero:
   title: Mikko Ahonen
   description: Independent IT professional
-  image: '/images/mikko-ahonen.jpg'
+  image: '/images/mikko-ahonen.jpeg'
 
 
 #-------------------------------
