@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/60.jpg'
+image: '/images/08.jpg'
 ---
 
 Jauzo Oy provides IT consulting services.

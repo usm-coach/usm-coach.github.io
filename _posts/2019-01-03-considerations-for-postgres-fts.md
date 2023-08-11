@@ -3,8 +3,8 @@ layout: post
 title:  Some Considerations When Working With Postgres Full-Text Search
 description: There are some things that are useful to take into account when choosing between Postfres Full Text Search (FTS) and external indexing solutions such as ElasticSearch
 date:   2009-01-03 15:01:35 +0300
-image:  '/images/20.jpg'
-tags:   [lifestyle, rest, nature]
+image:  '/images/520.jpg'
+tags:   [databases, postgres, technical]
 ---
 When one uses Postgres as a database, it is tempting to also use Postgres for indexing the data for supporting search features on the site. While ultimately this may be the best fit in many cases, the choice between Postgres Full Text Search (FTS) and external indexing solutions such as ElasticSearch is often done 
 haphazadly, without understanding all the implications from the choice.
