@@ -2,7 +2,7 @@
 # General Site Settings
 title: JAUZO
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Jauzo - Mikko Ahonen – Independent IT professional
+description: Jauzo - Mikko Ahonen – Pragmatic, innovative and honest IT consulting
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -18,7 +18,7 @@ author:
 # Hero Settings
 hero:
   title: Mikko Ahonen
-  description: Independent IT professional
+  description: Pragmatic, innovative and honest IT consulting
   image: '/images/upper-wide.jpeg'
 
 
